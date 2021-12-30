@@ -20,7 +20,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn More About Fleek!
+          My Crypto Space!
         </a>
       </header>
     </div>
