@@ -12,11 +12,11 @@ function App() {
         <span className="Big-plus">+</span>
         <img src={reactLogo} className="React-logo" alt="react-logo" />
         <p>
-          React App deployed on IPFS through Fleek.
+          ALEXANDER, WELCOME TO
         </p>
         <a
           className="App-link"
-          href="https://docs.fleek.co"
+          href="https://jemboo.net"
           target="_blank"
           rel="noopener noreferrer"
         >
